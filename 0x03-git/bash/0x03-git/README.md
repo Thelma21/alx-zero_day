@@ -1,1 +1,1 @@
-My other repository in repo session 
+My other reposy in repo session 
